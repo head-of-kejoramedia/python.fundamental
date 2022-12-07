@@ -1,5 +1,5 @@
 """
-Program Perulangan Membaca Buku
+Program Perulangan Membaca Buku Dengan For
 """
 jumlah_total_buku=10
 print('Ibu memberi perintah,"Baca semua bukumu" ')
